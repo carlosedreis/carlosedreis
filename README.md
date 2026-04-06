@@ -7,3 +7,5 @@ Me chamo Carlos, sou um programador Front End, atualmente estou aprendendo e cri
 
 
 [![Carlos GitHub Stats](https://github-readme-stats.vercel.app/api?username=carlosedreis)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carlosedreis)](https://github.com/anuraghazra/github-readme-stats)
